@@ -1,7 +1,7 @@
 # PWA
 Actividad 2.2 - PWA (Creación de una PWA)
 
-* ¿Qué es un Service Worker?
+# ¿Qué es un Service Worker?
 
 Ten en cuenta que las PWA se ejecutan solo en https porque el service workers puede acceder a la solicitud y manejarla. Por lo tanto, se requiere seguridad.
 
